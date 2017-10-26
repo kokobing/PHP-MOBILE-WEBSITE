@@ -5,7 +5,6 @@ PHP-WEBSITE-BMW a complete enterprise website, including the Frontend and Backen
 PHP-MOBILE-WEBSITE 很早做的一个手机网站，界面傻，包括前台后台，因为项目生命周期完结，整理到仓库中以做总结，代码仅供学习，禁止任何与商业有关的行为！
 站点前后端未用任何MVC框架、未用任何第三方CMS系统，不存在复杂的一堆看不明白的代码，全程序均手写，非常适合PHP初学者入门。   
 
-PHP-WEBSITE-BMW 该项目2012-6月完成上线，目前已经不在维护。  
 
 主要应用技术：PHP,MYSQL
 
