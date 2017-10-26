@@ -1,0 +1,33 @@
+body,h1,h2,tr,td,h3,ul,ol,form,p{margin:0 0;padding:0 0;font-size:12px;line-height:1.25em;}
+body{ background:#797979;}
+a:link{color:#494949;}
+li{padding:2px 2px;}
+img{border:0px;} 
+a{color:#00E; text-decoration:none;}
+a:link, a:visited{color:#00E; text-decoration:none;}
+.red{color:#FF0000;}
+.vcent {vertical-align:middle;}
+.logo{ text-align:center;}
+
+.mainbox{ width:320px; height:auto; background:#FFFFFF;}
+
+.indexlist{	height:auto;float:left;}
+.indexbox320{float:left;margin-top:10px;margin-bottom:10px;margin-left:13px;width:90px; }
+.indexbox320 p{margin-top:5px; FONT-SIZE: 14px; FONT-WEIGHT: bold;}
+
+
+.title {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 5px; LINE-HEIGHT: 24px; BACKGROUND-COLOR: #c9daef; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; HEIGHT: 21px; COLOR: #333; FONT-SIZE: 14px; FONT-WEIGHT: bold; PADDING-TOP: 5px
+}
+
+
+.fotter {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 5px; LINE-HEIGHT: 24px; BACKGROUND-COLOR: #c9daef; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; height:auto; COLOR: #333;PADDING-TOP: 5px
+}
+
+.clear{ clear:both;}
+
+/*字体*/
+.txt {font-size: 9pt;color: #494949;text-decoration: none;line-height: 20px;text-align:left;}
+
+
